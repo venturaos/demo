@@ -1,14 +1,16 @@
 [
-  {
-    "chave": "Chave Primeiro Valor",
-    "valor": "Valor Primeiro Valor"
-  },
-  {
-    "chave": "Chave Segundo Valor",
-    "valor": "Valor Segundo Valor"
-  },
-  {
-    "chave": "Chave Terceiro Valor",
-    "valor": "Valor Terceiro Valor"
+  "GET":{
+    {
+      "chave": "Chave Primeiro Valor",
+      "valor": "Valor Primeiro Valor"
+    },
+    {
+      "chave": "Chave Segundo Valor",
+      "valor": "Valor Segundo Valor"
+    },
+    {
+      "chave": "Chave Terceiro Valor",
+      "valor": "Valor Terceiro Valor"
+    }
   }
 ]
