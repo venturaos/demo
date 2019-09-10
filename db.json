@@ -1,5 +1,5 @@
-[
-  "GET":{
+{
+  "GET": [
     {
       "chave": "Chave Primeiro Valor",
       "valor": "Valor Primeiro Valor"
@@ -12,5 +12,5 @@
       "chave": "Chave Terceiro Valor",
       "valor": "Valor Terceiro Valor"
     }
-  }
-]
+  ]
+}
