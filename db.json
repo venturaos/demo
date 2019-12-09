@@ -9,4 +9,21 @@
       ],
       "Nota": 7.1
   }
+  "params": [
+    {
+      "Nome": "Otávio Ventura dos Santos",
+      "Idade": 25,
+      "Cidade": "Araras"
+    },
+    {
+      "Nome": "Otávio Ventura dos Santos",
+      "Idade": 25,
+      "Cidade": "Rio Claro"
+    },
+    {
+      "Nome": "Otávio Ventura dos Santos",
+      "Idade": 25,
+      "Cidade": "Campinas"
+    }
+  ]
 }
