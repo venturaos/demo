@@ -2,6 +2,7 @@
   "get-info": {
       "Nome": "Otávio Ventura dos Santos",
       "Idade": 25,
+      "Nascimento": "15/08/1994",
       "Cursos": [
         "Programação",
         "Engenharia Civil"
