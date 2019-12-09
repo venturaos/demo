@@ -1,8 +1,6 @@
 {
-  "get-info": [
-    {
+  "get-info": {
       "Nome": "Otávio Ventura",
       "Idade": 25
-    }
-  ]
+  }
 }
