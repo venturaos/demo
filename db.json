@@ -2,9 +2,9 @@
   "get-info": {
       "Nome": "Otávio Ventura dos Santos",
       "Idade": 25,
-      "Cursos": {
+      "Cursos": [
         "Programação",
         "Engenharia Civil"
-      }
+      ]
   }
 }
